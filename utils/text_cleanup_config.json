@@ -1,0 +1,13 @@
+{
+    "special_characters": [
+        "•", "▪", "●", "■", "◆", "◦", "*", "-", "–", "—", "→", "﻿"
+    ],
+    "expressions": [
+        "\\n", "\\t", "\\r", "(next page)"
+    ],
+    "texts_to_remove": [
+        "Inferring job vacancies from online job advertisements",
+        "Distributional national account estimates for household income and consumption: methodological issues…",
+        "An introduction to Large Language Models and their relevance for statistical offices"
+    ]
+}
